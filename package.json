@@ -9,6 +9,10 @@
     "publish": "np --no-release-draft --any-branch",
     "release": "np"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garesbil9/text-time-tool.git"
+  },
   "keywords": [
     "date",
     "time",
