@@ -1,5 +1,5 @@
 {
-  "name": "text-time",
+  "name": "text-time-tool",
   "version": "0.0.3",
   "description": "Easily transform text to time",
   "main": "lib/index.js",
