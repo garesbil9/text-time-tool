@@ -1,0 +1,30 @@
+{
+  "name": "text-time",
+  "version": "0.0.3",
+  "description": "Easily transform text to time",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha",
+    "test:w": "mocha --watch",
+    "publish": "np --no-release-draft --any-branch",
+    "release": "np"
+  },
+  "keywords": [
+    "date",
+    "time",
+    "config"
+  ],
+  "author": "Tchoupinax <corentinfiloche@hotmail.fr> (https://corentinfiloche.xyz)",
+  "license": "MIT",
+  "engineStrict": true,
+  "engines": {
+    "node": ">=14"
+  },
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "eslint": "^8.54.0",
+    "mocha": "^10.2.0",
+    "mocha-each": "^2.0.1",
+    "np": "^8.0.4"
+  }
+}
